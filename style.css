@@ -1,0 +1,42 @@
+
+    .header{
+
+        color:orangered;
+        border:inset;
+        background-color:darkblue;
+    }
+
+    .footer{
+
+        color:orangered;
+        border:inset;
+        background-color:darkblue;
+    }
+
+    .content{
+        display:block;
+        justify-content:center;
+    }
+
+    .tigers{
+        background-color: lightsalmon;
+    }
+
+    .lions{
+       background-color:cornflowerblue;
+    }
+
+    .leopards{
+        background-color: darkkhaki;
+    }
+
+    .cheetahs{
+        background-color: darkorange;
+    }
+
+    .jaguar{
+        background-color:yellow;
+    }
+        
+        
+    
